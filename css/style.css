@@ -12765,3 +12765,8 @@ textarea.form-control {
     width: 50%;
     height: auto;
 }
+.group-tabs{
+    height: 600px;
+    margin-top: 30px;
+
+}
