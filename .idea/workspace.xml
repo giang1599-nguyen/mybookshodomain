@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43f953cf-037c-425d-9ee8-92ff501d6981" name="Default Changelist" comment="" />
+    <list default="true" id="00bd9e9c-8cb8-4413-8e71-1827196e1424" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,16 +11,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1Qtv0ryFwiz0IaWclJytHP5LxB8" />
+  <component name="ProjectId" id="1RMlheSK57AP39f0MHrhmXR2DtS" />
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ltweb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -31,7 +29,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\XamPP\htdocs\BookShop\demo.hasthemes.com\boighor-preview\boighor-v3\images\logo" />
+      <recent name="D:\web\gtnm\louie\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -51,14 +49,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="43f953cf-037c-425d-9ee8-92ff501d6981" name="Default Changelist" comment="" />
-      <created>1568602486275</created>
+      <changelist id="00bd9e9c-8cb8-4413-8e71-1827196e1424" name="Default Changelist" comment="" />
+      <created>1569484965622</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568602486275</updated>
-      <workItem from="1568602487588" duration="1315000" />
-      <workItem from="1568604274022" duration="1117000" />
-      <workItem from="1568698576591" duration="2858000" />
+      <updated>1569484965622</updated>
+      <workItem from="1569484966896" duration="1317000" />
+      <workItem from="1569501306697" duration="18529000" />
+      <workItem from="1569545494975" duration="1900000" />
+      <workItem from="1569564417790" duration="2069000" />
+      <workItem from="1569574153135" duration="1697000" />
+      <workItem from="1569597138463" duration="1230000" />
+      <workItem from="1569943846526" duration="3944000" />
     </task>
     <servers />
   </component>
