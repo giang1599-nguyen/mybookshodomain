@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00bd9e9c-8cb8-4413-8e71-1827196e1424" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mystyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avata1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/web/gtnm/louie-1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -67,7 +72,8 @@
       <workItem from="1569574153135" duration="1697000" />
       <workItem from="1569597138463" duration="1230000" />
       <workItem from="1569943846526" duration="3944000" />
-      <workItem from="1569948232706" duration="4631000" />
+      <workItem from="1569948232706" duration="4805000" />
+      <workItem from="1569990671450" duration="2934000" />
     </task>
     <servers />
   </component>
@@ -79,7 +85,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

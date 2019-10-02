@@ -4,3 +4,16 @@
 .list-inline{
     display: flex;
 }
+@media (min-width: 359px) and (max-width: 767px) {
+    .about-img-wrap{
+        text-align: inherit!important;
+        width: 88%;
+        margin: auto;
+    }
+}
+@media screen and (max-width: 991px) {
+    .about-img-wrap {
+        float: none;
+       text-align: inherit;
+    }
+}
