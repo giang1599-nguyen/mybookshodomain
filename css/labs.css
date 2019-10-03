@@ -7,16 +7,20 @@
 .ds .fa-download {
     font-size: 20px;
 }
-.html{
+
+.html {
     color: #FFFFFF;
 }
-h4{
-    font-family: "Montserrat-Black"!important;
+
+h4 {
+    font-family: "Montserrat-Black" !important;
 }
-.ftco-animate .listbook{
+
+.ftco-animate .listbook {
     background-position: unset;
 }
- .dow {
+
+.dow {
     width: 100%;
     margin: auto;
     background-color: #1b9eff;
@@ -27,6 +31,18 @@ h4{
     margin-bottom: -150px;
 }
 
- .dow:hover {
+.dow:hover {
     background-color: #72cfff;
+}
+
+.nav-tabs .nav-link.active {
+    background: #e88d8d;
+}
+
+.group-tabs .nav-one {
+    /*background: #ceefff;*/
+    background: #7cf3ff;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    background-color: #e88d8d;
 }
