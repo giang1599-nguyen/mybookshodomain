@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00bd9e9c-8cb8-4413-8e71-1827196e1424" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/17130047_design.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/addbook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/editbook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/listbook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pp1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pp2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/impl1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/labs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/labs.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labs.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -23,9 +33,10 @@
   </component>
   <component name="ProjectId" id="1RMlheSK57AP39f0MHrhmXR2DtS" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/web/gtnm/louie-1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -37,6 +48,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\XamPP\htdocs\mybookshodomain" />
+      <recent name="D:\XamPP\htdocs\mybookshodomain\images" />
       <recent name="D:\web\gtnm\louie\css" />
     </key>
   </component>
@@ -73,7 +85,7 @@
       <workItem from="1569990671450" duration="8869000" />
       <workItem from="1570023074390" duration="2401000" />
       <workItem from="1570064826539" duration="7878000" />
-      <workItem from="1570113972814" duration="4077000" />
+      <workItem from="1570113972814" duration="10792000" />
     </task>
     <servers />
   </component>

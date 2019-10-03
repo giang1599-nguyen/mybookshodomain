@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Implement W1</title>
+</head>
+<body>
+<div id="implementweek1" class="container tab-pane fade">
+    <div class="bound">
+        <div class="container">
+            <h1 class="header">Books</h1>
+            <hr>
+            <div class="menu">
+                <button type="button" class="btn create-book" data-toggle="modal"
+                        data-target="#myModalAdd">
+                    <i class="fas fa-plus"></i>&ensp;Add book
+                </button>
+                <button onclick="sortList()" class="sortList">Sort &ensp;<i
+                        class="fas fa-sort"></i></button>&ensp;
+                <div class="search-container">
+                    <form action="/action_page.php">
+                        <input type="text" placeholder="Search.." name="search">
+                        <button type="submit"><i class="fa fa-search"></i></button>
+                    </form>
+                </div>
+            </div>
+
+            <table class="table" id="book-table">
+                <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>Type</th>
+                    <th>Price</th>
+                </tr>
+                <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Doraemon</td>
+                    <td>Fujiko Fujio</td>
+                    <td>Comic</td>
+                    <td>200.000$</td>
+                    <td>
+                        <button type="button" class="btn btn-edit" data-toggle="modal"
+                                data-target="#myModalEdit">
+                            <i class="fas fa-pencil-alt"></i>&ensp;Edit
+                        </button>
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-delete">
+                            <i class="fas fa-trash-alt"></i>&ensp; Delete
+                        </button>
+                    </td>
+                </tr>
+                <tr class="even">
+                    <td>2</td>
+                    <td>Conan</td>
+                    <td>Aoyama Gosho</td>
+                    <td>Comic</td>
+                    <td>300.000$</td>
+                    <td>
+                        <button type="button" class="btn btn-edit" data-toggle="modal"
+                                data-target="#myModalEdit">
+                            <i class="fas fa-pencil-alt"></i>&ensp;Edit
+                        </button>
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-delete">
+                            <i class="fas fa-trash-alt"></i> &ensp;Delete
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Titanic</td>
+                    <td>Ayyo Desnisley</td>
+                    <td>Novel</td>
+                    <td>100.000$</td>
+                    <td>
+                        <button type="button" class="btn btn-edit" data-toggle="modal"
+                                data-target="#myModalEdit">
+                            <i class="fas fa-pencil-alt"></i>&ensp;Edit
+                        </button>
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-delete">
+                            <i class="fas fa-trash-alt"></i>&ensp; Delete
+                        </button>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Add book -->
+        <div class="modal fade" id="myModalAdd" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <form class="validate-form">
+                        <button type="button" class="close" data-dismiss="modal">&times;
+                        </button>
+                        <h4 class="form-title">Add a new book</h4>
+                        <hr>
+                        <div class="dialog-add">
+                            <span> Title</span>
+                            <div class="validate-input">
+                                <input class="input" type="text">
+                            </div>
+                            <span> Author</span>
+                            <div class="validate-input">
+                                <input class="input" type="text">
+                            </div>
+                            <span>Type</span>
+                            <div class="validate-input">
+                                <select class="select">
+                                    <option>Please chooses</option>
+                                    <option>Comic</option>
+                                    <option>Novel</option>
+                                    <option>Horror</option>
+                                </select>
+                            </div>
+                            <span> Price</span>
+                            <div class="validate-input">
+                                <input class="input" type="text">
+                            </div>
+                        </div>
+                    </form>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">
+                            <i class="fas fa-times"></i>&ensp;Cancel
+                        </button>
+                        <button type="submit" class="btn btn-submit">
+                            <i class="fas fa-check"></i>&ensp; Submit
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!--Edit book-->
+        <div class="modal fade" id="myModalEdit" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <form class="validate-form">
+                        <button type="button" class="close" data-dismiss="modal">&times;
+                        </button>
+                        <h4 class="form-title">Edit book</h4>
+                        <hr>
+                        <div class="dialog-add">
+                            <span> Title</span>
+                            <div class="validate-input">
+                                <input class="input" type="text" placeholder="Doraemon">
+                            </div>
+                            <span> Author</span>
+                            <div class="validate-input">
+                                <input class="input" type="text" placeholder="Fujiko Fujio">
+                            </div>
+                            <span>Type</span>
+                            <div class="validate-input">
+                                <select class="select">
+                                    <option>Please chooses</option>
+                                    <option>Comic</option>
+                                    <option>Novel</option>
+                                    <option>Horror</option>
+                                </select>
+                            </div>
+                            <span> Price</span>
+                            <div class="validate-input">
+                                <input class="input" type="text" placeholder="200.00$">
+                            </div>
+                        </div>
+                    </form>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">
+                            <i class="fas fa-times"></i>&ensp;Cancel
+                        </button>
+                        <button type="submit" class="btn btn-submit">
+                            <i class="fas fa-check"></i>&ensp; Submit
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <button class="btn dow"><a href="labs.html" download="17130047_implement_lab1.html" class="dowload html"><i class="fa fa-download"></i></a> Download HTML</button>
+</div>
+</body>
+</html>
