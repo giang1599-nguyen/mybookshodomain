@@ -46,3 +46,12 @@ h4 {
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
     background-color: #e88d8d;
 }
+.reminders{
+    font-size: 19px;
+    font-family: inherit;
+    color: #d2803a;
+    margin-top: 20px;
+}
+.reminders li{
+    list-style: none;
+}
