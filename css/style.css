@@ -1,9 +1,3 @@
-/*!
- * Bootstrap v4.1.0 (https://getbootstrap.com/)
- * Copyright 2011-2018 The Bootstrap Authors
- * Copyright 2011-2018 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
 body {
     font-size: 15px;
     font-family: Tahoma;
@@ -12763,4 +12757,10 @@ textarea.form-control {
 .group-tabs {
     margin-top: 30px;
     margin-bottom: 140px;
+}
+.fa-download{
+    color: #78d5ef !important;
+}
+.btn .fa-download{
+    color: white !important;
 }

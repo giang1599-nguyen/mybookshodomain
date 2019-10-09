@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00bd9e9c-8cb8-4413-8e71-1827196e1424" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/css/forma.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/css/plugins.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modernizr-3.5.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/impl1.html" beforeDir="false" afterPath="$PROJECT_DIR$/impl1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/labs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/labs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/web/gtnm/louie-1/booklist.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -38,9 +47,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\XamPP\htdocs\mybookshodomain\css\css" />
+      <recent name="D:\XamPP\htdocs\mybookshodomain\js" />
+      <recent name="D:\XamPP\htdocs\mybookshodomain\css" />
       <recent name="D:\XamPP\htdocs\mybookshodomain" />
       <recent name="D:\XamPP\htdocs\mybookshodomain\images" />
-      <recent name="D:\web\gtnm\louie\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -77,7 +88,10 @@
       <workItem from="1570023074390" duration="2401000" />
       <workItem from="1570064826539" duration="7878000" />
       <workItem from="1570113972814" duration="13757000" />
-      <workItem from="1570150551576" duration="734000" />
+      <workItem from="1570150551576" duration="865000" />
+      <workItem from="1570416029611" duration="177000" />
+      <workItem from="1570504474976" duration="1325000" />
+      <workItem from="1570628301468" duration="5638000" />
     </task>
     <servers />
   </component>
