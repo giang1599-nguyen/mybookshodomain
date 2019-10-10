@@ -2,16 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00bd9e9c-8cb8-4413-8e71-1827196e1424" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/css/forma.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/css/plugins.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/active.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/modernizr-3.5.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/css/fotorama.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/css/material-design-iconic-font.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Material-Design-Iconic-Font.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Simple-Line-Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Simple-Line-Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Simple-Line-Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Simple-Line-Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Simple-Line-Icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/bicon615a.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/bicon615a.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/bicon615a.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/bicon615a.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont-1.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/slick-1.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/figma2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/button-compare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/fotorama.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/product-info.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/labs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/labs.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/ex1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/ex1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/lab2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/lab2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labs.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +56,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -47,11 +67,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\XamPP\htdocs\mybookshodomain\css\css" />
-      <recent name="D:\XamPP\htdocs\mybookshodomain\js" />
-      <recent name="D:\XamPP\htdocs\mybookshodomain\css" />
-      <recent name="D:\XamPP\htdocs\mybookshodomain" />
       <recent name="D:\XamPP\htdocs\mybookshodomain\images" />
+      <recent name="D:\XamPP\htdocs\mybookshodomain\images\icons" />
+      <recent name="D:\XamPP\htdocs\mybookshodomain\css\css" />
+      <recent name="D:\XamPP\htdocs\mybookshodomain\fonts" />
+      <recent name="D:\XamPP\htdocs\mybookshodomain\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -92,6 +112,7 @@
       <workItem from="1570416029611" duration="177000" />
       <workItem from="1570504474976" duration="1325000" />
       <workItem from="1570628301468" duration="5638000" />
+      <workItem from="1570667874964" duration="7904000" />
     </task>
     <servers />
   </component>

@@ -19,7 +19,7 @@ tbody {
 }
 
 h1 {
-    font-style: oblique;
+    /*font-style: oblique;*/
     font-size: 22px;
     font-weight: 700 !important;
 }
