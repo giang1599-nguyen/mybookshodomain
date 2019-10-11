@@ -21,8 +21,8 @@ h4 {
 }
 
 .dow {
-    width: 100%;
-    margin: auto;
+    width: 25%;
+    height: 47px;
     background-color: #1b9eff;
     border: none;
     color: white;
@@ -47,11 +47,14 @@ h4 {
     background-color: #e88d8d;
 }
 .reminders{
-    font-size: 19px;
+    font-size: 16px;
     font-family: inherit;
     color: #d2803a;
     margin-top: 20px;
 }
 .reminders li{
     list-style: none;
+}
+#implementweek1 .close{
+    font-size: 2.5rem;
 }
