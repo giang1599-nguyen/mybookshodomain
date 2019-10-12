@@ -1208,7 +1208,6 @@ a {
 }
 
 
-
 .product .product__thumb .new__box {
     color: #fff;
     font-size: 10px;
@@ -1366,12 +1365,26 @@ a {
 
 }
 
-.rqli{
+.rqli {
     list-style: circle;
 }
-.rqcontainer{
+
+.rqcontainer {
     margin-left: 35px;
 }
-#implementweek2 .productcategory__slide--2 i{
-color: #FFFFFF;
+
+#implementweek2 .productcategory__slide--2 i {
+    color: #FFFFFF;
+}
+
+#implementweek1 .header {
+    font-size: 24px;
+}
+
+#userweek2 .ftco-section-3 strong {
+    font-size: 17px;
+}
+
+#designweek2 .ftco-animate {
+    margin-top: 35px;
 }
