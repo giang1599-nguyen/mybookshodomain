@@ -1388,3 +1388,6 @@ a {
 #designweek2 .ftco-animate {
     margin-top: 35px;
 }
+#implementweek2 #wrapper{
+    margin-bottom: -80px;
+}
