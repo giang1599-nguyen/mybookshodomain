@@ -32,7 +32,7 @@ h4 {
 }
 
 .dow:hover {
-    background-color: #72cfff;
+    /*background-color: #72cfff;*/
 }
 
 .nav-tabs .nav-link.active {
@@ -57,4 +57,12 @@ h4 {
 }
 #implementweek1 .close{
     font-size: 2.5rem;
+}
+.inner{
+    border: none;
+    background: #1b9eff;
+    margin-top: 5px;
+}
+.inner:hover{
+    background: #1b9eff;
 }
