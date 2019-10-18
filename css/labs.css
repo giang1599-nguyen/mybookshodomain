@@ -66,3 +66,8 @@ h4 {
 .inner:hover{
     background: #1b9eff;
 }
+.right-button{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 40px;
+}
