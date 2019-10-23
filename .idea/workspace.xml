@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00bd9e9c-8cb8-4413-8e71-1827196e1424" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/labs/lab3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icons/search_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo/fit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/school/nonglampv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/school/nonglamrd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/school/nonglamsan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/school/nonglamtl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/school/pv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iframe/css/imp3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iframe/impl3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/labs/lab3.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/labs/lab3.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab3.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +30,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/school" />
+    <property name="last_opened_file_path" value="D:/XamPP/htdocs/BookShop" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -104,7 +98,8 @@
       <workItem from="1571361670559" duration="10676000" />
       <workItem from="1571625753700" duration="1638000" />
       <workItem from="1571733841189" duration="268000" />
-      <workItem from="1571806747520" duration="14002000" />
+      <workItem from="1571806747520" duration="14245000" />
+      <workItem from="1571847508988" duration="2129000" />
     </task>
     <servers />
   </component>
