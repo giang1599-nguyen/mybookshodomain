@@ -1704,11 +1704,16 @@ a:hover {
     height: 50%;
     margin-bottom: 1rem;
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
+    background-color: #fda20a !important;
+    border-color: #fda20a !important;
 }
-.bt .btn-primary{
-    height: 100px;
-    width: 80%;
+.bt .btn-primary {
+    height: 62px;
+    width: 100%;
     font-size: 34px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #fda20a !important;
+    border-color: #fda20a !important;
 }

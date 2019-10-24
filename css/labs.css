@@ -20,6 +20,14 @@ h4 {
     background-position: unset;
 }
 
+.f {
+    background-color: #ffa000 !important;
+}
+
+.f:hover {
+    background-color: #ffa000 !important;
+}
+
 .dow {
     width: 25%;
     height: 47px;
@@ -41,33 +49,48 @@ h4 {
 
 .group-tabs .nav-one {
     /*background: #ceefff;*/
-    background: #daf0fb;
+    background: #80c5f9;
 }
-.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
     background-color: #e88d8d;
 }
-.reminders{
+
+.reminders {
     font-size: 16px;
     font-family: inherit;
     color: #d2803a;
     margin-top: 20px;
 }
-.reminders li{
+
+.reminders li {
     list-style: none;
 }
-#implementweek1 .close{
+
+#implementweek1 .close {
     font-size: 2.5rem;
 }
-.inner{
+
+.inner {
     border: none;
     background: #1b9eff;
     margin-top: 5px;
 }
-.inner:hover{
+
+.inner:hover {
     background: #1b9eff;
 }
-.right-button{
+
+.fig {
+    background: #ffa000 !important;
+}
+
+.fig:hover {
+    background: #ffa000 !important;
+}
+
+.right-button {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     margin-top: 40px;
 }
