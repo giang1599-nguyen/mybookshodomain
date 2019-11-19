@@ -31,7 +31,7 @@ h4 {
 .dow {
     width: 25%;
     height: 47px;
-    background-color: #1b9eff;
+    background-color: #ffa000;
     border: none;
     color: white;
     padding: 12px 30px;
@@ -73,12 +73,12 @@ h4 {
 
 .inner {
     border: none;
-    background: #1b9eff;
+    background: #ffa000;
     margin-top: 5px;
 }
 
 .inner:hover {
-    background: #1b9eff;
+    background: #ffa000;
 }
 
 .fig {
