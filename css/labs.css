@@ -95,9 +95,9 @@ h4 {
     margin-top: 40px;
 }
 .inner-d{
-    border-radius: 60px;
-    background: #31eef7;
-    border: 1px solid cyan;
+    border-radius: 5px;
+    background: azure;
+    border: 1px solid azure;
     margin-left: 33%;
 }
 .do-i{
