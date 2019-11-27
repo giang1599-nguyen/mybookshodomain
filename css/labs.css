@@ -94,3 +94,18 @@ h4 {
     justify-content: center;
     margin-top: 40px;
 }
+.inner-d{
+    border-radius: 60px;
+    background: #31eef7;
+    border: 1px solid cyan;
+    margin-left: 33%;
+}
+.do-i{
+    color: #c5690a !important;
+    margin-right: 7px;
+}
+.right-button3{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
