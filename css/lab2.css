@@ -1395,3 +1395,6 @@ a {
     margin-bottom: -140px !important;
     border: none;
 }
+#colorlib-main iframe{
+    border: none;
+}
